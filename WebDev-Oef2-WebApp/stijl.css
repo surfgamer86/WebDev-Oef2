@@ -1,0 +1,35 @@
+﻿body {
+    font-family: Arial;
+    font-size: 1.2em;
+    background-color: darkred;
+    color: cornsilk;
+    margin: 28px;
+}
+header › h1 {
+    font-size: 2em;
+    font-weight: bold;
+    margin: 28px;
+    text-align: center;
+    text-shadow: 5px 5px 9px yellow;
+}
+article {
+    width: 450px;
+    margin: 0px auto;
+    text-align: Justify;
+}
+label {
+    display: block;
+    margin: 5px 0px;
+}
+input {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 1.2em;
+}
+form {
+    width: 358px;
+    margin: 30px auto;
+    padding: 50px;
+    border: 2px solid cornsilk;
+    border-radius: 10px;
+}
